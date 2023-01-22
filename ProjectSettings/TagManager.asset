@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 334936539
+    locked: 0
+  - name: Platform
+    uniqueID: 3098384055
+    locked: 0
+  - name: CubeTrail
+    uniqueID: 1392131427
+    locked: 0
+  - name: Cube
+    uniqueID: 1449364259
+    locked: 0
+  - name: Vinyet
+    uniqueID: 769327543
+    locked: 0
+  - name: UI
+    uniqueID: 1603668829
+    locked: 0
